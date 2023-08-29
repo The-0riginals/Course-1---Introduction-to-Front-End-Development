@@ -13,3 +13,8 @@ break points : 576px, 768px, 992px, 1200px
 <img src="./Assets/boostrap-breakpoints.png">
 
 moble, tablet, desktop, large desktop have pixel widths of 576px, 768px, 992px, 1200px respectively.
+
+__All you need to know about bootstrap is in the documentation:__ https://getbootstrap.com/docs
+
+React is a `library` that can be used to build single page applications. __ITS NOT A FRAMEWORK__
+
